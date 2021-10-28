@@ -38,3 +38,32 @@ section {
 .space-between {justify-content: space-between
 
 }
+
+.btn {
+    cursor: pointer; 
+    border: none;
+    padding: 6px 12px; 
+    border-radius: 3px;
+    line-height: 1.4;
+
+}
+.btn-defualt {
+    color: white;
+    background-color: #faa541;
+
+}
+
+.btn-primary {
+    color: white;
+    background-color: #364147;
+}
+
+.form-control {
+    color: #8598a2;
+    display: block;
+    padding: 6px 12px; 
+    border-style: solid;
+    border-width: 1px;
+    border-color: #a0a0a0;
+    line-height: 1.4;
+}
