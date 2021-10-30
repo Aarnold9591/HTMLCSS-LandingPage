@@ -101,3 +101,22 @@ section {
     max-width:100%; 
     height: auto;
 }
+
+.search-box {
+
+    width: 330px;
+    height: 85px;
+    padding: 6px 12px; 
+    border: 1px; 
+    border-color: #a0a0a0;
+}
+
+.search-button {
+    background-color: #a0a0a0;
+    text: #ffffff;
+    width: 100px;
+    height: 30px; 
+    border: 0;
+    padding: 0;
+
+}
