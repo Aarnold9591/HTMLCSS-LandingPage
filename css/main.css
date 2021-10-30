@@ -84,3 +84,13 @@ section {
     color:#364147;
 
 }
+
+.header-nav {
+    border-bottom: #a0a0a0 1px;
+
+}
+
+.brand {
+    size: 170x85; 
+    margin-left: -15px 60px;
+}
